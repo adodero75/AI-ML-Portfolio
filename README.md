@@ -28,7 +28,7 @@ Hi, I'm **Andres Dodero**, currently pursuing a Post Graduate Program in Artific
 ### 1. [FoodHub Order Analysis](./FoodHub-Order-Analysis)
 **Business Problem:** Optimize operations and improve customer satisfaction for a food aggregator app.  
 **Techniques:** Data wrangling, EDA, visualization, business insights.  
-![FoodHub Screenshot](https://via.placeholder.com/600x200?text=FoodHub+Analysis+Screenshot)
+!FoodHub Screenshot
 
 ### 2. [Personal Loan Campaign Prediction](./Personal-Loan-Prediction)
 **Business Problem:** Predict which bank customers are likely to accept a personal loan offer.  
