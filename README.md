@@ -1,27 +1,45 @@
 # AI & Machine Learning Portfolio
 
+![Portfolio Banner](https://img.shields.io/badge/AI%2FML-Portfolio-blueviolet?style=for-the-badge)  
+
+## Badges
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange?logo=scikit-learn)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-brightgreen?logo=pandas)  
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-lightgrey?logo=github)
+
+---
+
 ## About Me
 Hi, I'm **Andres Dodero**, currently pursuing a Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications (UT Austin + Great Learning). I have completed foundational modules in Python and Machine Learning and am now advancing into ensemble methods and deep learning. My goal is to apply AI/ML techniques to solve real-world business problems and showcase my skills through practical projects.
 
-## Purpose of This Portfolio
-This portfolio demonstrates my ability to analyze data, build predictive models, and generate actionable insights for business applications using AI and ML. Each project includes a detailed explanation of the problem, solution approach, techniques used, and recommendations.
+---
+
+## Skills Covered
+- Python for Data Science (NumPy, Pandas, Matplotlib)
+- Exploratory Data Analysis (EDA)
+- Machine Learning (Regression, Classification, Decision Trees)
+- Ensemble Methods (Bagging, Boosting)
+- Business Analytics & Insights
+
+---
 
 ## Projects
-1. **FoodHub Order Analysis**
-   - [View Project Folder](./FoodHub-Order-Analysis)
-   - Business Problem: Optimize operations and improve customer satisfaction for a food aggregator app.
-   - Techniques: Data wrangling, EDA, visualization, business insights.
+### 1. [FoodHub Order Analysis](./FoodHub-Order-Analysis)
+**Business Problem:** Optimize operations and improve customer satisfaction for a food aggregator app.  
+**Techniques:** Data wrangling, EDA, visualization, business insights.  
+![FoodHub Screenshot](https://via.placeholder.com/600x200?text=FoodHub+Analysis+Screenshot)
 
-2. **Personal Loan Campaign Prediction**
-   - [View Project Folder](./Personal-Loan-Prediction)
-   - Business Problem: Predict which bank customers are likely to accept a personal loan offer.
-   - Techniques: Decision Tree modeling, pruning, model evaluation.
+### 2. [Personal Loan Campaign Prediction](./Personal-Loan-Prediction)
+**Business Problem:** Predict which bank customers are likely to accept a personal loan offer.  
+**Techniques:** Decision Tree modeling, pruning, model evaluation.  
+![Loan Campaign Screenshot](https://via.placeholder.com/600x200?text=Loan+Prediction+Screenshot)
 
-## How to Navigate This Portfolio
-- Each project folder contains:
-  - A **README.md** file summarizing the project.
-  - The original project report in PDF format.
-- Start by reading the README for a quick overview, then dive into the PDF for detailed analysis.
+---
+
+## Contact
+- **LinkedIn:** [Andres Dodero](https://www.linkedin.com/in/andresdodero)
+- **Email:** andresdodero@gmail.com
 
 ---
 Stay tuned for more projects as I progress through advanced machine learning, deep learning, NLP, and computer vision modules!
